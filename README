@@ -1,0 +1,15 @@
+>this code was made on ubuntu 18.04
+
+>python 3.6.6
+
+>python packages needed are given in the requirements.txt file. Can be installed by using following command
+pip install -r requirements.txt
+
+>the trained model and label binarizer are stored in binary files model_dropout25 and binarizer
+
+>all code has been written in jupyter notebooks.
+
+>trying to run this on any machine other than my own would be a major inconvenience. Hence PDFs of the 
+jupyter notebooks have been attached.
+
+>the example.ipynb notebook basically loads the saved model and classifies four examples (2 correct, 2 incorrect)
